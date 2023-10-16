@@ -53,6 +53,7 @@ body {
     border: 2px solid rgb(176, 172, 172);
     padding: 20px 45px 20px 20px;
     font-size: 16px;
+    color: white;
 }
 
 .campoContraseña input {
@@ -63,7 +64,7 @@ body {
     border: 2px solid rgb(176, 172, 172);
     padding: 20px 45px 20px 20px;
     font-size: 16px;
-    
+    color: white;
 }
 
 .campoUsuario input::placeholder {
